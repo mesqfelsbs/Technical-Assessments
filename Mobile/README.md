@@ -8,7 +8,6 @@ You must use Kotlin, Swift or Kotlin Multiplatform for your implementation.
 - Users should be able to view global statistics (cases, deaths, recovered).
 - Users should be able to view a list of statistics per country (cases, deaths, recovered).
 - Users should be able to search for specific countries.
-- Users should be able to rank countries based on cases / deaths / recovered
 
 ## UI/Design Requirements
 The design and layout of the app is up to you. We encourage you to showcase your creativity in creating a user-friendly and visually appealing UI.
