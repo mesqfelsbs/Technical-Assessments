@@ -1,13 +1,15 @@
 # Mobile Technical Assessment
 
-Create an app (Android **or** iOS) that displays coronavirus statistics using the provided API [here](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest).
+Create an app (Android **or** iOS) that displays coronavirus statistics using the provided API [here](https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#07c318a5-21f2-460c-8ede-edd62dee7a54).
 
 You must use Kotlin, Swift or Kotlin Multiplatform for your implementation.
 
 ## Functional Requirements
 - Users should be able to view global statistics (cases, deaths, recovered).
+  - Endpoint for Global statistics [here](https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#07c318a5-21f2-460c-8ede-edd62dee7a54).
 - Users should be able to view a list of statistics per country (cases, deaths, recovered).
-- Users should be able to search for specific countries.
+  - Endpoint for statistics per country [here](https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#ad1d0096-3390-462d-896c-5817101a7adf). 
+- Users should be able to search for specific countries and see its statistics.
 
 ## UI/Design Requirements
 The design and layout of the app is up to you. We encourage you to showcase your creativity in creating a user-friendly and visually appealing UI.
