@@ -2,7 +2,7 @@
 
 Create an app (Android **or** iOS) that displays coronavirus statistics using the provided API [here](https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#07c318a5-21f2-460c-8ede-edd62dee7a54).
 
-You must use Kotlin, Swift or Kotlin Multiplatform for your implementation.
+You must use Kotlin or Swift or Kotlin Multiplatform for your implementation.
 
 ## Functional Requirements
 - Users should be able to view global statistics (cases, deaths, recovered).
