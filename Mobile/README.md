@@ -37,7 +37,7 @@ Please follow these instructions for submitting your assessment:
 
 - Create a repository on GitHub or Bitbucket to host your code.
 - Include a README file in the repository with instructions on how to build and run your app.
-- If time permits, please also supply a video or gif showcasing your App.
+- Please also supply a video or gif showcasing your App.
 - Email the URL of your repository back to me.
 
 *Good luck!*
