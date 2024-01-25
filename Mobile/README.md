@@ -12,6 +12,7 @@ You must use Kotlin or Kotlin Multiplatform for your implementation.
   - Endpoint for statistics per country: https://covid-api.com/api/reports/total?iso={ISO_CODE}
     - E.g: https://covid-api.com/api/reports/total?iso=AUS
 - Users should be able to search for specific countries and see its statistics.
+- Please don't hesitate to utilise third-party libraries to accelerate your development process, but ensure that you can provide a valid rationale for their inclusion.
 
 ## UI/Design Requirements
 The design and layout of the app is up to you. We encourage you to showcase your creativity in creating a user-friendly and visually appealing UI.
@@ -20,7 +21,7 @@ The design and layout of the app is up to you. We encourage you to showcase your
 Through this assessment, we want to evaluate your approach in the following areas:
 
 - **Code Quality:**
-    - Utilize the DRY (Don't Repeat Yourself) principle.
+    - Utilise the DRY (Don't Repeat Yourself) principle.
     - Implement unit tests for your code.
     - Apply separation of concerns and adhere to good design patterns.
 - **Code Standards:**
@@ -30,9 +31,10 @@ Through this assessment, we want to evaluate your approach in the following area
     - Implement error handling mechanisms.
     - Ensure graceful failure of the app in exceptional scenarios.
 - **App Performance:**
-    - Optimize your code for improved performance.
+    - Optimise your code for improved performance.
 - **UX Design Creativity:**
     - Present data in a user-friendly and intuitive manner.
+
 
 ## Submission
 Please follow these instructions for submitting your assessment:
