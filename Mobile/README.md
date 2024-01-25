@@ -1,14 +1,16 @@
 # Mobile Technical Assessment
 
-Create an app (Android **or** iOS) that displays coronavirus statistics using the provided API [here](https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#07c318a5-21f2-460c-8ede-edd62dee7a54).
+Create an Android app that displays coronavirus statistics using the provided API [here](https://covid-api.com/api/).
 
-You must use Kotlin or Swift or Kotlin Multiplatform for your implementation.
+You must use Kotlin or Kotlin Multiplatform for your implementation.
 
 ## Functional Requirements
-- Users should be able to view global statistics (cases, deaths, recovered).
-  - Endpoint for Global statistics [here](https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#07c318a5-21f2-460c-8ede-edd62dee7a54).
-- Users should be able to view a list of statistics per country (cases, deaths, recovered).
-  - Endpoint for statistics per country [here](https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#ad1d0096-3390-462d-896c-5817101a7adf). 
+- Users should be able to view global statistics (confirmed cases, deaths, fatality rate percentage).
+  - Endpoint for Global statistics: https://covid-api.com/api/reports/total
+- Users should be able to view a list of statistics per country (confirmed cases, deaths, fatality rate percentage).
+  - Endpoint to get countries ISO codes: https://covid-api.com/api/regions
+  - Endpoint for statistics per country: https://covid-api.com/api/reports/total?iso={ISO_CODE}
+    - E.g: https://covid-api.com/api/reports/total?iso=AUS
 - Users should be able to search for specific countries and see its statistics.
 
 ## UI/Design Requirements
@@ -40,4 +42,4 @@ Please follow these instructions for submitting your assessment:
 - Please also supply a video or gif showcasing your App.
 - Email the URL of your repository back to me.
 
-*Good luck!*
+*Good luck and Happy Coding!*
