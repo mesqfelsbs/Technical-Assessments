@@ -1,19 +1,22 @@
-# Front Technical Assessment
+# Frontend Technical Assessment
 
 The aim of this assessment is to give us an insight into your thought processes, general approach & problem solving skills.
-It also gives us an understanding of your knowledge on the four primary front-end pillars:
+It also gives us an understanding of your knowledge on the four primary frontend pillars:
 
 - HTML
 - CSS
-- JavaScript
+- Javascript
 - React.js
 
-## The Assessment
+## Requirements
 
-- To be completed on CodeSanbox (https://codesandbox.io/).
-- You will create a list of five collapsible items, each item will consist of the following components:
+- Create a list of five collapsible items, each item will consist of the following components:
   - A title containing a toggle
   - A content block containing at least two paragraphs of text
+
+<img src="assets/example-fe-assessment.png" alt="Example Outcome" width="350"/>
+
+_Please use this representation as a guide only_
 
 ## The Rules
 
@@ -26,21 +29,15 @@ It also gives us an understanding of your knowledge on the four primary front-en
 - The first item in the list should have rounded top corners.
 - The last item in the list should have rounded bottom corners, except when it's opened/active.
 - Animated collapse/expand transitions are optional if time permits.
-- It should have Unit Tests. For this you can use any testing framework you would like.
-
-## Example Outcome
-
-_Please use this representation as a guide only_
-
-<img src="assets/example-fe-assessment.png" alt="Example Outcome" width="350"/>
+- It should have unit tests. For this you can use any testing framework you would like.
 
 ## What We Will Be Looking For
 Through this assessment, we want to evaluate your approach in the following areas:
 
 - **Code Quality:**
     - Utilize the DRY (Don't Repeat Yourself) principle.
-    - Implement unit tests for your code.
     - Apply separation of concerns and adhere to good design patterns.
+    - Implement unit tests.
 - **Code Standards:**
     - Ensure consistency in coding style and patterns.
     - Follow industry best practices and coding conventions.
